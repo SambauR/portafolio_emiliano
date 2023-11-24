@@ -1,0 +1,122 @@
+#perfil {
+    width: 250px;
+}
+
+#img-stack {
+    width: 200px;
+}
+
+.bg-primary {
+    background-color: rgba(135, 55, 135, 0.707) !important;
+}
+
+#head {
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
+#botones_nav {
+    background-color: #954e9a;
+    border-color: black;
+}
+.nav-link {
+    color: black !important;
+}
+
+.col {
+    margin-top: 7px;
+}
+
+#proyecto-1 {
+    background-image: url('imagenes/PROYECTO_SIM.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 3px;
+}
+
+#p1 {
+    opacity: 90%;
+}
+
+#proyecto-2 {
+    background-image: url('imagenes/CLON_PAGINA.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 3px;
+}
+
+#proyecto-3 {
+    background-image: url('imagenes/PORTAFOLIO.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    margin: 3px;
+}
+
+#proyecto-4 {
+    background-image: url('imagenes/BARCO.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 3px
+}
+
+#proyecto-5 {
+    background-image: url('imagenes/CARTAS.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 3px
+}
+
+.titulo-proyecto {
+    text-shadow: 2px 5px 30px #000000;
+    text-align: center;
+}
+#lab {
+    padding: 10px;
+}
+
+.lead {
+    justify-content: center;
+    padding: 8px;
+}
+
+.carousel-item {
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #c843fd;
+    height: 5px;
+}
+
+.carousel-caption {
+    color: black;
+}
+
+#typewriter {
+    padding-top: 6px;
+}
+
+#botones_nav:hover {
+    background-color: rgb(159, 16, 159);
+}
+
+#certif {
+    justify-content: space-between !important;
+    margin: 5px;
+    padding: 10px;
+}
+#oracle {
+    padding: 10px;
+    height: 156px;
+}
+.botones{
+    width: 10px;
+}
+.letras{
+    font-family: 'Mouse Memoirs', sans-serif;
+    text-size-adjust:inherit
+}
